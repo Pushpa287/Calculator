@@ -1,0 +1,4 @@
+public multilpy(int a,intb)
+{
+int c=a*b;
+}
